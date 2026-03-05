@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hernanjbarraza
+- 👋 Hi, I’m @hernanbarraza
 - 👀 I’m interested in software localization. I currently work as a Localization Project Manager.
 - 🌱 I’m currently learning a bit about machine and AI-powered translation
 - 💞️ I’m looking to collaborate on software localization projects just for fun and for practice
